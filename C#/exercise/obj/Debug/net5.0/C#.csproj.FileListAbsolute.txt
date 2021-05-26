@@ -1,0 +1,15 @@
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/C#.deps.json
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/C#.dll
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/ref/C#.dll
+/Users/ouyang/Desktop/CS Learning/SG8/C#/bin/Debug/net5.0/C#.pdb
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.csprojAssemblyReference.cache
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.dll
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/ref/C#.dll
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.pdb
+/Users/ouyang/Desktop/CS Learning/SG8/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache
